@@ -1,0 +1,17 @@
+img {
+    border-radius: 5px;
+    margin: 5px;
+    width:300px;
+    height:300px;
+} 
+.datos{
+    text-align: center ;
+    background-color: rgb(42, 199, 226)
+}
+
+section{
+    border-style: solid;
+    border-color: rgb(31, 145, 186);
+    margin-top: 10px;
+    padding: 10px;
+}
